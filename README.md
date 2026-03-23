@@ -17,7 +17,7 @@ This project is a testament to the power of mobile development in 2026:
 ## 🛠️ Installation (Android/Termux)
 ```bash
 pkg install python
-git clone [https://github.com/](https://github.com/)[YOUR-USERNAME]/SubVibe.git
+git clone https://github.com/GGWarrior001/SubVibe.git
 cd SubVibe
 pip install -r requirements.txt
 python main.py
