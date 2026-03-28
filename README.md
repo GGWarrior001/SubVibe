@@ -2,13 +2,6 @@
 
 **SubVibe** is a lightweight, privacy-focused subscription auditor and negotiator built entirely on Android. It helps you find hidden "digital entropy" in your inbox and provides the templates to negotiate better rates.
 
-## 🚀 Built with the "Vibe Coding" Stack
-This project is a testament to the power of mobile development in 2026:
-* **Brain:** Kimi K2.5 (Logic & Code Generation)
-* **Environment:** Termux (Python 3.x)
-* **Editor:** Acode / MT Manager
-* **Git Client:** MGit (Open Source)
-
 ## ✨ Features
 * **Zero-Cloud Parsing:** Scans local `.eml` or `.txt` receipt exports without uploading your data to a server.
 * **Waste Detection:** Identifies duplicate services or "ghost" subscriptions.
